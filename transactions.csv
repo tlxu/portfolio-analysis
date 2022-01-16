@@ -1,3 +1,4 @@
-Date,Ticker,Action,Quantity,Price,Total
-2022-01-13,ASML,Sell,20,730,14600
-2022-01-13,AAL,Buy,19,100,1900
+Date,Ticker,Action,Quantity,Price
+2022-01-13,ASML,Buy,20,730
+2022-01-13,AAL,Buy,100,19
+2022-01-14,ASML,Sell,5,740
